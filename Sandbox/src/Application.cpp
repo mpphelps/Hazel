@@ -4,5 +4,4 @@ namespace Hazel {
 
 int main() {
 	Hazel::Print();
-	
 }
