@@ -1,6 +1,6 @@
 #include <Hazel.H>
 
-class Sandbox :public Hazel::Application {
+class Sandbox : public Hazel::Application {
 public:
 	Sandbox() {
 
